@@ -1,9 +1,9 @@
-﻿# Augmented-Audio
+﻿# Analyse der Lokalisationsfähigkeit und Darbietungsempfindung des Menschen für 3D-Audio in einer Mixed Reality Umgebung
 Bachelorarbeit von Hendrik Park
 
-In diesem Repository finden Sie die Assets der Applikation für den Hörversuch, der im Rahmen der Bachelorarbeit von Hendrik Park im Studiengang Medientechnik durchgeführt worden ist. 
+In diesem Repository finden Sie die Assets der Applikation für den Hendrik Park durchgeführten Hörversuch in einer Mixed Reality Umgebung. 
 
-Im Rahmen meiner Bachelorarbeit habe ich einen Hörversuch mit Unity3D Version 2018.3.0f2 entwickelt, bei dem Probanden audiovisuelle Inhalte lokalisieren und anhand bestimmter Kriterien bewerten sollten. 
+Im Rahmen der Bachelorarbeit wurde ein Hörversuch mit Unity3D Version 2018.3.0f2 entwickelt, bei dem Probanden audiovisuelle Inhalte lokalisieren und anhand bestimmter Kriterien bewerten sollten. 
 Der Fokus lag hierbei darauf die von Microsoft erstellten 3D-Audio-Tools zu verwenden und so eine Auralisation mit den Hörereignissen durchzuführen. 
 
 In diesem Repository werden die benötigten Assets zur Erstellung der App verwaltet. 
@@ -40,7 +40,7 @@ Development Build -> aktivieren
 System Sample Rate -> 48000
 Spatializer Plugin -> MS HRTF Spatializer
 -> Quality:
-- Ganz oben bei Default für Universal Windows Platform(UWP) "Quality" auf Very Low einstellen
+- Ganz oben bei Default für Universal Windows Platform(UWP) "Quality" auf "Very Low" festlegen
 
 9. Build Settings -> Build -> Ordner erstellen, den Ordner "App" benennen und Ordner auswählen drücken
 10. Im "App"-Ordner BA_Hendrik_Park.sln starten
