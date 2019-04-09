@@ -20,8 +20,8 @@ Zur eigenen Erstellung der App in Unity folgen Sie bitte den folgenden Anweisung
 Other Settings -> Configuration -> Scripting Backend -> .NET
 XR Settings -> Virtual Realy Supported aktivieren
 
-Add Open Scene drücken 
-Folgende Parameter anpassen:
+- Add Open Scene drücken 
+- Folgende Parameter anpassen:
 Target Device -> HoloLens
 Architecture -> x86
 Build Type -> D3D
