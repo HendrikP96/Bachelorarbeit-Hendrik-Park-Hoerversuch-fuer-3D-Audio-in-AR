@@ -1,4 +1,4 @@
-﻿# Analyse der Lokalisationsfähigkeit und des Darbietungsempfinden des Menschen für 3D-Audio in einer Mixed Reality Umgebung
+﻿# Analyse der Lokalisationsfähigkeit und des Darbietungsempfindens des Menschen für 3D-Audio in einer Mixed Reality Umgebung
 Bachelorarbeit von Hendrik Park
 
 In diesem Repository finden Sie die Assets der Applikation für den Hendrik Park durchgeführten Hörversuch in einer Mixed Reality Umgebung. 
