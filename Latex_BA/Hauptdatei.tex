@@ -1,0 +1,118 @@
+%Dokumentklasse
+\documentclass[a4paper,12pt]{scrreprt}
+\usepackage[left=2cm, right=2cm, top=3cm, bottom=3cm]{geometry}
+%\usepackage[onehalfspacing]{setspace}
+% ============= Packages =============
+
+% Dokumentinformationen
+\usepackage[
+	pdftitle={BA vorläufiger Titel},
+	pdfsubject={},
+	pdfauthor={Hendrik Park},
+	pdfkeywords={},	
+	%Links nicht einrahmen
+	hidelinks
+]{hyperref}
+
+
+% Standard Packages
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx, subfig}
+\graphicspath{{Images/}}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{lastpage}
+\usepackage{HSEL}
+\usepackage{lmodern}
+\usepackage{color}
+%%\usepackage{xcolor, showframe} 
+\definecolor{mlgreen}{rgb}{.035,.6,.251} 
+\definecolor{mlviolett}{rgb}{.643,.259,.804} 
+\usepackage{listings} 
+\lstdefinestyle{mlab}{language=Matlab, numbers=left, numberstyle=\tiny,%5 
+basicstyle={\ttfamily},% 
+ keywordstyle={\color{blue}},% 
+ commentstyle=\color{mlgreen},% 
+ stringstyle=\color{mlviolett},% 
+ breaklines=true, 
+ }  % 
+\bibliographystyle{abbrv}
+
+% zusätzliche Schriftzeichen der American Mathematical Society
+\usepackage{amsfonts}
+\usepackage{esvect}
+\usepackage{amsmath}
+
+\begin{document}
+% ============= Kopf- und Fußzeile =============
+%Kopf- und Fußzeile
+
+% ============= Package Einstellungen & Sonstiges ============= 
+%Besondere Trennungen
+\hyphenation{De-zi-mal-tren-nung}
+\hyphenation{Be-reich-en}
+\hyphenation{Addition}
+\hyphenation{Kompri-mier-ungs-ver-fahr-en}
+\hyphenation{Farbkanäle}
+
+% ============= Dokumentbeginn =============
+
+
+%Seiten ohne Kopf- und Fußzeile sowie Seitenzahl
+\pagestyle{empty}
+
+% Deckblatt
+\begin{center}
+\begin{tabular}{p{\textwidth}}
+\\
+\begin{center}
+\LARGE{\textsc{Analyse der Lokalisationsfähigkeit und des Darbietungsempfindens des Menschen für 3D-Audio in einer Mixed Reality Umgebung\\}}
+\end{center}
+\begin{center}
+\large{\textsc{Hier könnte ihre Werbng stehen \\}}
+\end{center}
+\begin{center}
+\large{Hochschule Emden/Leer, Studiengang Medientechnik \\}
+\end{center}
+\\
+\begin{center}
+\textbf{\Large{Bachelorarbeit}}
+\end{center}
+\begin{center}
+am xxxx. vorgelegt von
+\end{center}
+\begin{center}
+\large{\textbf{Hendrik Park }} \\
+\small{geboren am 16.10.1996 in Westerstede} \\
+\small{Matrikelnummer: 7008075}
+
+
+\end{center}
+
+
+
+
+\\
+\end{tabular}
+\end{center}
+
+%% Ende Deckblatt
+\cleardoubleoddpage
+
+%Inhaltsverzeichnis
+\tableofcontents
+
+
+
+%% Inhalt: 
+\pagestyle{fancy}
+\include{Einleitung}
+\include{Hauptteil}
+
+
+%Literaturverzeichnis
+\bibliography{Literatur}
+
+\end{document}

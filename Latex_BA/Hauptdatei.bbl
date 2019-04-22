@@ -1,0 +1,76 @@
+\begin{thebibliography}{10}
+
+\bibitem{Azura97}
+R.~T. Azuma.
+\newblock A surey of augmented reality.
+\newblock {\em Hughes Research Laboratories}, 1997.
+
+\bibitem{Blauert80}
+J.~Blauert.
+\newblock Neuere ergebnisse zum räumlichen hören.
+\newblock {\em Westdeutscher Verlag GmbH Opladen}, 1980.
+
+\bibitem{MicrosoftMR}
+B.~Bray, J.~McCulloch, N.~Schonning, and M.~Zeller.
+\newblock What is mixed reality?
+\newblock Microsoft,
+  \url{https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality},
+  Mar. 2018.
+\newblock abgerufen am 07.02.19.
+
+\bibitem{Genuit10}
+P.~D.-I.~K. Genuit.
+\newblock {\em Sound-Engineering im Automobilbereich}.
+\newblock Springer-Verlag Berlin Heidelberg, 2010.
+
+\bibitem{Gieselmann}
+H.~Gieselmann.
+\newblock Gdc: Vr-entwickler sony und oculus warnen vor der "uncanny valley".
+\newblock Heise Online,
+  \url{https://www.heise.de/newsticker/meldung/GDC-VR-Entwickler-Sony-und-Oculus-warnen-vor-der-Uncanny-VR-alley-2291230.html},
+  Aug. 2014.
+\newblock abgerufen am 05.02.19.
+
+\bibitem{Grau03}
+O.~Grau.
+\newblock {\em From illusion to imersion}.
+\newblock Massachusetts Institute of Technology, 2003.
+
+\bibitem{Heidermanns1979}
+P.~D.-I.~K. Heidermanns.
+\newblock {\em Elektroakustik}.
+\newblock B. G. Teubner Studienskripten Stuttgart, 1979.
+
+\bibitem{MSHRTF}
+D.~Johnston and H.~Gamper.
+\newblock Spatial audio.
+\newblock
+  \url{https://www.microsoft.com/en-us/research/project/spatial-audio/}, Dec.
+  2015.
+\newblock abgerufen am 11.04.19.
+
+\bibitem{MSSpatialAudio}
+keveleigh.
+\newblock Mr spatial 220: Spatial sound.
+\newblock
+  \url{https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-220},
+  Mar. 2018.
+\newblock abgerufen am 12.04.19.
+
+\bibitem{Mori70}
+K.~F. MacDorman and N.~Kageki.
+\newblock The uncanny valley.
+\newblock {\em IEEE Robotics \& Automation Magazine}, 2012.
+
+\bibitem{Strick17}
+P.~L. Strick.
+\newblock The eardrums move when the eyes move: A multisensory effect on the
+  mechanics of hearing.
+\newblock {\em University of Pittsburgh, PNAS}, 2017.
+
+\bibitem{HdA08}
+S.~Weinzierl.
+\newblock {\em Handbuch der Audiotechnik}.
+\newblock Springer-Verlag Berlin Heidelberg, 2008.
+
+\end{thebibliography}
