@@ -60,10 +60,11 @@
 \contentsline {subsubsection}{\nonumberline Sprachbefehle und Positionierung der Welt}{38}{section*.37}
 \contentsline {section}{\numberline {4.7}Ablauf des H\IeC {\"o}rversuchs}{38}{section.4.7}
 \contentsline {section}{\numberline {4.8}Probanden}{40}{section.4.8}
-\contentsline {chapter}{\numberline {5}Versuchsergebnisse}{41}{chapter.5}
-\contentsline {subsection}{\numberline {5.0.1}Szene 1: Adlerschrei im Adlernest}{41}{subsection.5.0.1}
-\contentsline {subsection}{\numberline {5.0.2}Szene 2: Wolfsheulen}{44}{subsection.5.0.2}
-\contentsline {subsection}{\numberline {5.0.3}Szene 3: Kirchenglocken}{47}{subsection.5.0.3}
-\contentsline {subsection}{\numberline {5.0.4}Szene 4: Adler in der Luft}{49}{subsection.5.0.4}
-\contentsline {subsection}{\numberline {5.0.5}Szene 5: Flussrauschen}{51}{subsection.5.0.5}
-\contentsline {section}{\numberline {5.1}Ergebnisse kritisch hinterfragen}{54}{section.5.1}
+\contentsline {chapter}{\numberline {5}Auswertung des H\IeC {\"o}rversuchs}{41}{chapter.5}
+\contentsline {section}{\numberline {5.1}Vorstellung der Versuchsergebnisse}{41}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Szene 1: Adlerschrei im Adlernest}{41}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Szene 2: Wolfsheulen}{45}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Szene 3: Kirchenglocken}{49}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Szene 4: Adler in der Luft}{52}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Szene 5: Flussrauschen}{56}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}Ergebnisse kritisch hinterfragen}{60}{section.5.2}

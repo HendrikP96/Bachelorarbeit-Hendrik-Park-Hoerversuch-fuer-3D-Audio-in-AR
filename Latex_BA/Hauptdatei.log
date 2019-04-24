@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.13)  22 APR 2019 11:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.13)  23 APR 2019 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -814,23 +814,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(./Hauptdatei.aux (./Einleitung.aux) (./Hauptteil.aux
-
-LaTeX Warning: Label `fig:Szene_2_Frage1' multiply defined.
-
-
-LaTeX Warning: Label `fig:Szene_2_Frage1' multiply defined.
-
-
-LaTeX Warning: Label `fig:Szene_1_Frage1' multiply defined.
-
-
-LaTeX Warning: Label `fig:Szene_1_Frage2' multiply defined.
-
-
-LaTeX Warning: Label `fig:Szene_1_Frage3' multiply defined.
-
-))
+(./Hauptdatei.aux (./Einleitung.aux) (./Hauptteil.aux))
 \openout1 = `Hauptdatei.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
@@ -848,7 +832,8 @@ LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 48.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
@@ -1041,7 +1026,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  (./Hauptteil.tex
 chapter 2.
-<Images/Ohr_Bild.jpg, id=319, 496.85625pt x 333.245pt>
+<Images/Ohr_Bild.jpg, id=324, 496.85625pt x 333.245pt>
 File: Images/Ohr_Bild.jpg Graphic file (type jpg)
 
 <use Images/Ohr_Bild.jpg>
@@ -1067,7 +1052,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
-<Images/Kurven_gleicher_Lautheit.jpg, id=329, 562.1pt x 341.275pt>
+<Images/Kurven_gleicher_Lautheit.jpg, id=335, 562.1pt x 341.275pt>
 File: Images/Kurven_gleicher_Lautheit.jpg Graphic file (type jpg)
 
 <use Images/Kurven_gleicher_Lautheit.jpg>
@@ -1090,14 +1075,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-[7] <Images/HRTF.jpg, id=356, 998.73125pt x 926.46124pt>
+[7] <Images/HRTF.jpg, id=361, 998.73125pt x 926.46124pt>
 File: Images/HRTF.jpg Graphic file (type jpg)
  <use Images/HRTF.jpg>
 Package pdftex.def Info: Images/HRTF.jpg used on input line 57.
 (pdftex.def)             Requested size: 256.0675pt x 256.07112pt.
 
 [8 <./Images/HRTF.jpg>]
-<Images/kopfbezogenes_Koordinatensystem.png, id=368, 697.60625pt x 357.335pt>
+<Images/kopfbezogenes_Koordinatensystem.png, id=373, 697.60625pt x 357.335pt>
 File: Images/kopfbezogenes_Koordinatensystem.png Graphic file (type png)
 
 <use Images/kopfbezogenes_Koordinatensystem.png>
@@ -1151,7 +1136,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--139
  []
 
 [11]
-<Images/Stereoaufstellung_Phantomschallquelle.png, id=413, 396.48125pt x 370.38
+<Images/Stereoaufstellung_Phantomschallquelle.png, id=418, 396.48125pt x 370.38
 374pt>
 File: Images/Stereoaufstellung_Phantomschallquelle.png Graphic file (type png)
  <use Images/Stereoaufstellung_Phantomschallquelle.png>
@@ -1163,7 +1148,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
-<Images/Summenlokalisationskurven.png, id=417, 770.88pt x 385.44pt>
+<Images/Summenlokalisationskurven.png, id=422, 770.88pt x 385.44pt>
 File: Images/Summenlokalisationskurven.png Graphic file (type png)
 
 <use Images/Summenlokalisationskurven.png>
@@ -1190,7 +1175,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
-<Images/VR_Immersion.jpg, id=452, 652.4375pt x 451.6875pt>
+<Images/VR_Immersion.jpg, id=457, 652.4375pt x 451.6875pt>
 File: Images/VR_Immersion.jpg Graphic file (type jpg)
 
 <use Images/VR_Immersion.jpg>
@@ -1211,7 +1196,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--221
 
  []
 
-<Images/Mori_Uncanny_Valley_de.png, id=467, 1284.8pt x 1003.75pt>
+<Images/Mori_Uncanny_Valley_de.png, id=472, 1284.8pt x 1003.75pt>
 File: Images/Mori_Uncanny_Valley_de.png Graphic file (type png)
 
 <use Images/Mori_Uncanny_Valley_de.png>
@@ -1246,7 +1231,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
-<Images/AR_Beispielbild.jpg, id=487, 388.45125pt x 388.45125pt>
+<Images/AR_Beispielbild.jpg, id=492, 388.45125pt x 388.45125pt>
 File: Images/AR_Beispielbild.jpg Graphic file (type jpg)
 
 <use Images/AR_Beispielbild.jpg>
@@ -1260,14 +1245,14 @@ Overfull \hbox (29.55165pt too wide) in paragraph at lines 263--266
 [18
 
  <./Images/AR_Beispielbild.jpg>]
-<Images/Mixed_Reality.png, id=497, 225.84375pt x 225.84375pt>
+<Images/Mixed_Reality.png, id=502, 225.84375pt x 225.84375pt>
 File: Images/Mixed_Reality.png Graphic file (type png)
 
 <use Images/Mixed_Reality.png>
 Package pdftex.def Info: Images/Mixed_Reality.png used on input line 276.
 (pdftex.def)             Requested size: 227.63515pt x 227.63515pt.
 
-<Images/microsoft_hololens.jpg, id=500, 592.2125pt x 333.245pt>
+<Images/microsoft_hololens.jpg, id=505, 592.2125pt x 333.245pt>
 File: Images/microsoft_hololens.jpg Graphic file (type jpg)
 
 <use Images/microsoft_hololens.jpg>
@@ -1313,14 +1298,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 338--340
 
  []
 
-[22] <Images/Blender_Foto.png, id=534, 1445.4pt x 782.925pt>
+[22] <Images/Blender_Foto.png, id=539, 1445.4pt x 782.925pt>
 File: Images/Blender_Foto.png Graphic file (type png)
 
 <use Images/Blender_Foto.png>
 Package pdftex.def Info: Images/Blender_Foto.png used on input line 351.
 (pdftex.def)             Requested size: 455.23724pt x 256.07233pt.
 
-<Images/Unity_Foto.png, id=535, 1444.39626pt x 781.92125pt>
+<Images/Unity_Foto.png, id=540, 1444.39626pt x 781.92125pt>
 File: Images/Unity_Foto.png Graphic file (type png)
 
 <use Images/Unity_Foto.png>
@@ -1330,7 +1315,7 @@ Package pdftex.def Info: Images/Unity_Foto.png used on input line 361.
 chapter 4.
 [25
 
-] <Images/Komplette_welt_Draufsicht.png, id=556, 969.6225pt x 657.95813pt>
+] <Images/Komplette_welt_Draufsicht.png, id=561, 969.6225pt x 657.95813pt>
 File: Images/Komplette_welt_Draufsicht.png Graphic file (type png)
 
 <use Images/Komplette_welt_Draufsicht.png>
@@ -1342,35 +1327,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 394--395
 
  []
 
-<Images/Dorf.png, id=557, 1190.94937pt x 645.91313pt>
+<Images/Dorf.png, id=562, 1190.94937pt x 645.91313pt>
 File: Images/Dorf.png Graphic file (type png)
  <use Images/Dorf.png>
 Package pdftex.def Info: Images/Dorf.png used on input line 400.
 (pdftex.def)             Requested size: 426.77882pt x 227.62035pt.
 
 [26 <./Images/Komplette_welt_Draufsicht.png>]
-<Images/Wald.png, id=565, 1300.86pt x 655.69969pt>
+<Images/Wald.png, id=570, 1300.86pt x 655.69969pt>
 File: Images/Wald.png Graphic file (type png)
  <use Images/Wald.png>
 Package pdftex.def Info: Images/Wald.png used on input line 410.
 (pdftex.def)             Requested size: 426.78409pt x 227.61736pt.
 
 [27 <./Images/Dorf.png> <./Images/Wald.png>]
-<Images/Gebirge_Fluss.png, id=574, 1084.80281pt x 674.52pt>
+<Images/Gebirge_Fluss.png, id=579, 1084.80281pt x 674.52pt>
 File: Images/Gebirge_Fluss.png Graphic file (type png)
 
 <use Images/Gebirge_Fluss.png>
 Package pdftex.def Info: Images/Gebirge_Fluss.png used on input line 426.
 (pdftex.def)             Requested size: 426.79576pt x 227.61494pt.
  [28 <./Images/Gebirge_Fluss.png>]
-<Images/Raummodell_2.png, id=584, 936.49875pt x 672.26157pt>
+<Images/Raummodell_2.png, id=589, 936.49875pt x 672.26157pt>
 File: Images/Raummodell_2.png Graphic file (type png)
 
 <use Images/Raummodell_2.png>
 Package pdftex.def Info: Images/Raummodell_2.png used on input line 454.
 (pdftex.def)             Requested size: 426.7935pt x 227.62218pt.
  [29 <./Images/Raummodell_2.png>]
-<Images/Adler_Spektogramm.png, id=591, 562.1pt x 421.575pt>
+<Images/Adler_Spektogramm.png, id=596, 562.1pt x 421.575pt>
 File: Images/Adler_Spektogramm.png Graphic file (type png)
 
 <use Images/Adler_Spektogramm.png>
@@ -1382,7 +1367,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 482--483
  []
 
 [30 <./Images/Adler_Spektogramm.png (PNG copy)>]
-<Images/Wolf_Spektogramm.png, id=599, 562.1pt x 421.575pt>
+<Images/Wolf_Spektogramm.png, id=604, 562.1pt x 421.575pt>
 File: Images/Wolf_Spektogramm.png Graphic file (type png)
 
 <use Images/Wolf_Spektogramm.png>
@@ -1394,7 +1379,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 497--498
  []
 
 [31 <./Images/Wolf_Spektogramm.png (PNG copy)>]
-<Images/Kirchenglocken_Spektogramm.png, id=608, 562.1pt x 421.575pt>
+<Images/Kirchenglocken_Spektogramm.png, id=613, 562.1pt x 421.575pt>
 File: Images/Kirchenglocken_Spektogramm.png Graphic file (type png)
 
 <use Images/Kirchenglocken_Spektogramm.png>
@@ -1412,7 +1397,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 514--515
  []
 
 [32 <./Images/Kirchenglocken_Spektogramm.png (PNG copy)>]
-<Images/Fluss_Spektogramm.png, id=616, 562.1pt x 421.575pt>
+<Images/Fluss_Spektogramm.png, id=621, 562.1pt x 421.575pt>
 File: Images/Fluss_Spektogramm.png Graphic file (type png)
 
 <use Images/Fluss_Spektogramm.png>
@@ -1453,19 +1438,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 546--547
 
  []
 
-<Images/Frage1.png, id=624, 669.2503pt x 78.2925pt>
+<Images/Frage1.png, id=629, 669.2503pt x 78.2925pt>
 File: Images/Frage1.png Graphic file (type png)
  <use Images/Frage1.png>
 Package pdftex.def Info: Images/Frage1.png used on input line 552.
 (pdftex.def)             Requested size: 455.2578pt x 56.90694pt.
 
-<Images/Frage2.png, id=625, 670.00313pt x 82.80937pt>
+<Images/Frage2.png, id=630, 670.00313pt x 82.80937pt>
 File: Images/Frage2.png Graphic file (type png)
  <use Images/Frage2.png>
 Package pdftex.def Info: Images/Frage2.png used on input line 553.
 (pdftex.def)             Requested size: 455.23828pt x 56.90475pt.
 
-<Images/Frage3.png, id=626, 666.23906pt x 82.80937pt>
+<Images/Frage3.png, id=631, 666.23906pt x 82.80937pt>
 File: Images/Frage3.png Graphic file (type png)
  <use Images/Frage3.png>
 Package pdftex.def Info: Images/Frage3.png used on input line 554.
@@ -1487,14 +1472,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 568--569
  []
 
 [35 <./Images/Frage1.png> <./Images/Frage2.png> <./Images/Frage3.png>]
-<Images/Cursor_default.png, id=642, 374.14781pt x 277.035pt>
+<Images/Cursor_default.png, id=647, 374.14781pt x 277.035pt>
 File: Images/Cursor_default.png Graphic file (type png)
 
 <use Images/Cursor_default.png>
 Package pdftex.def Info: Images/Cursor_default.png used on input line 574.
 (pdftex.def)             Requested size: 142.26328pt x 113.80911pt.
 
-<Images/Cursor_Hand_Erkannt.png, id=643, 463.7325pt x 308.65312pt>
+<Images/Cursor_Hand_Erkannt.png, id=648, 463.7325pt x 308.65312pt>
 File: Images/Cursor_Hand_Erkannt.png Graphic file (type png)
 
 <use Images/Cursor_Hand_Erkannt.png>
@@ -1502,7 +1487,7 @@ Package pdftex.def Info: Images/Cursor_Hand_Erkannt.png used on input line 575.
 
 (pdftex.def)             Requested size: 142.26254pt x 113.80896pt.
 
-<Images/Cursor_Tap_Erkannt.png, id=644, 368.1253pt x 263.48438pt>
+<Images/Cursor_Tap_Erkannt.png, id=649, 368.1253pt x 263.48438pt>
 File: Images/Cursor_Tap_Erkannt.png Graphic file (type png)
 
 <use Images/Cursor_Tap_Erkannt.png>
@@ -1513,7 +1498,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 582--583
 
  []
 
-<Images/Welt_mit_Interface.png, id=647, 678.28406pt x 673.76718pt>
+<Images/Welt_mit_Interface.png, id=652, 678.28406pt x 673.76718pt>
 File: Images/Welt_mit_Interface.png Graphic file (type png)
 
 <use Images/Welt_mit_Interface.png>
@@ -1540,7 +1525,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 605--606
 
  []
 
-<Images/Tutorial.png, id=662, 527.72156pt x 514.92375pt>
+<Images/Tutorial.png, id=667, 527.72156pt x 514.92375pt>
 File: Images/Tutorial.png Graphic file (type png)
 
 <use Images/Tutorial.png>
@@ -1574,287 +1559,408 @@ Underfull \hbox (badness 10000) in paragraph at lines 627--628
 [40]
 chapter 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--635
+Underfull \hbox (badness 10000) in paragraph at lines 635--636
 
  []
 
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 638.
-
-<Images/Szene_1_data.png, id=684, 1284.8pt x 722.7pt>
+<Images/Szene_1_data.png, id=689, 1284.8pt x 722.7pt>
 File: Images/Szene_1_data.png Graphic file (type png)
 
 <use Images/Szene_1_data.png>
-Package pdftex.def Info: Images/Szene_1_data.png used on input line 643.
+Package pdftex.def Info: Images/Szene_1_data.png used on input line 644.
 (pdftex.def)             Requested size: 455.2348pt x 256.06956pt.
  [41
 
 ]
-<Images/Szene_1_data_2.png, id=692, 516.93124pt x 873.2625pt>
+<Images/Szene_1_data_2.png, id=697, 516.93124pt x 873.2625pt>
 File: Images/Szene_1_data_2.png Graphic file (type png)
 
 <use Images/Szene_1_data_2.png>
-Package pdftex.def Info: Images/Szene_1_data_2.png used on input line 652.
+Package pdftex.def Info: Images/Szene_1_data_2.png used on input line 653.
 (pdftex.def)             Requested size: 142.26302pt x 256.06451pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 653--653
+Underfull \hbox (badness 10000) in paragraph at lines 654--654
 [][][]|\T1/lmr/m/n/12 Vi-sua-li-sie-rung der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 653--653
+Underfull \hbox (badness 10000) in paragraph at lines 654--654
 \T1/lmr/m/n/12 lo-ka-li-sier-ten, vir-tu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 653--653
+Underfull \hbox (badness 10000) in paragraph at lines 654--654
 \T1/lmr/m/n/12 el-len Schall-quel-len
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 653--653
+Underfull \hbox (badness 1895) in paragraph at lines 654--654
 \T1/lmr/m/n/12 für Sze-ne 1 aus der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 660--661
+Underfull \hbox (badness 10000) in paragraph at lines 661--662
 
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 662--663
+Underfull \hbox (badness 1902) in paragraph at lines 663--664
 []\T1/lmr/m/n/12 Es ist eben-falls fest-zu-hal-ten, dass bis auf drei
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 662--663
+Underfull \hbox (badness 1701) in paragraph at lines 663--664
 \T1/lmr/m/n/12 Pro-ban-den al-le die vir-tu-el-le Schall-quel-le in der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 662--663
+Underfull \hbox (badness 10000) in paragraph at lines 663--664
 
  []
 
-<Images/Szene_1_Frage_1.png, id=693, 1445.4pt x 852.18375pt>
+<Images/Szene_1_Frage_1.png, id=698, 1445.4pt x 852.18375pt>
 File: Images/Szene_1_Frage_1.png Graphic file (type png)
 
 <use Images/Szene_1_Frage_1.png>
-Package pdftex.def Info: Images/Szene_1_Frage_1.png used on input line 670.
+Package pdftex.def Info: Images/Szene_1_Frage_1.png used on input line 672.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 670--671
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 672--673
  [][] 
  []
 
 [42 <./Images/Szene_1_data.png> <./Images/Szene_1_data_2.png>]
-<Images/Szene_1_Frage_2.png, id=701, 1445.4pt x 852.18375pt>
+Underfull \hbox (badness 10000) in paragraph at lines 677--678
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--680
+
+ []
+
+<Images/Szene_1_Frage_2.png, id=708, 1445.4pt x 852.18375pt>
 File: Images/Szene_1_Frage_2.png Graphic file (type png)
 
 <use Images/Szene_1_Frage_2.png>
-Package pdftex.def Info: Images/Szene_1_Frage_2.png used on input line 677.
+Package pdftex.def Info: Images/Szene_1_Frage_2.png used on input line 685.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 677--678
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 685--686
  [][] 
  []
 
-<Images/Szene_1_Frage_3.png, id=702, 1445.4pt x 852.18375pt>
+[43 <./Images/Szene_1_Frage_1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 690--691
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--693
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--695
+
+ []
+
+<Images/Szene_1_Frage_3.png, id=719, 1445.4pt x 852.18375pt>
 File: Images/Szene_1_Frage_3.png Graphic file (type png)
 
 <use Images/Szene_1_Frage_3.png>
-Package pdftex.def Info: Images/Szene_1_Frage_3.png used on input line 684.
+Package pdftex.def Info: Images/Szene_1_Frage_3.png used on input line 699.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 684--685
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 699--700
  [][] 
  []
 
-[43 <./Images/Szene_1_Frage_1.png (PNG copy)> <./Images/Szene_1_Frage_2.png (PN
-G copy)>] <Images/Szene_2_data.png, id=711, 1284.8pt x 722.7pt>
+[44 <./Images/Szene_1_Frage_2.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
+
+ []
+
+<Images/Szene_2_data.png, id=727, 1284.8pt x 722.7pt>
 File: Images/Szene_2_data.png Graphic file (type png)
 
 <use Images/Szene_2_data.png>
-Package pdftex.def Info: Images/Szene_2_data.png used on input line 695.
+Package pdftex.def Info: Images/Szene_2_data.png used on input line 715.
 (pdftex.def)             Requested size: 455.2348pt x 256.06956pt.
- [44 <./Images/Szene_1_Frage_3.png (PNG copy)>]
-<Images/Szene_2_Frage_1.png, id=718, 1445.4pt x 852.18375pt>
+ [45 <./Images/Szene_1_Frage_3.png (PNG copy)>]
+<Images/Szene_2_Frage_1.png, id=735, 1445.4pt x 852.18375pt>
 File: Images/Szene_2_Frage_1.png Graphic file (type png)
 
 <use Images/Szene_2_Frage_1.png>
-Package pdftex.def Info: Images/Szene_2_Frage_1.png used on input line 702.
+Package pdftex.def Info: Images/Szene_2_Frage_1.png used on input line 724.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 702--703
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 724--725
  [][] 
  []
 
-<Images/Szene_2_Frage_2.png, id=719, 1445.4pt x 852.18375pt>
+[46 <./Images/Szene_2_data.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 729--730
+
+ []
+
+<Images/Szene_2_Frage_2.png, id=744, 1445.4pt x 852.18375pt>
 File: Images/Szene_2_Frage_2.png Graphic file (type png)
 
 <use Images/Szene_2_Frage_2.png>
-Package pdftex.def Info: Images/Szene_2_Frage_2.png used on input line 709.
+Package pdftex.def Info: Images/Szene_2_Frage_2.png used on input line 735.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 709--710
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 735--736
  [][] 
  []
 
-[45 <./Images/Szene_2_data.png> <./Images/Szene_2_Frage_1.png (PNG copy)>]
-<Images/Szene_2_Frage_3.png, id=728, 1445.4pt x 852.18375pt>
+[47 <./Images/Szene_2_Frage_1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+
+ []
+
+<Images/Szene_2_Frage_3.png, id=752, 1445.4pt x 852.18375pt>
 File: Images/Szene_2_Frage_3.png Graphic file (type png)
 
 <use Images/Szene_2_Frage_3.png>
-Package pdftex.def Info: Images/Szene_2_Frage_3.png used on input line 716.
-(pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
-
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 716--717
- [][] 
- []
-
-<Images/Szene_3_data.png, id=729, 1284.8pt x 722.7pt>
-File: Images/Szene_3_data.png Graphic file (type png)
-
-<use Images/Szene_3_data.png>
-Package pdftex.def Info: Images/Szene_3_data.png used on input line 727.
-(pdftex.def)             Requested size: 455.2348pt x 256.06956pt.
- [46 <./Images/Szene_2_Frage_2.png (PNG copy)> <./Images/Szene_2_Frage_3.png (P
-NG copy)>]
-<Images/Szene_3_Frage_1.png, id=737, 1445.4pt x 852.18375pt>
-File: Images/Szene_3_Frage_1.png Graphic file (type png)
-
-<use Images/Szene_3_Frage_1.png>
-Package pdftex.def Info: Images/Szene_3_Frage_1.png used on input line 734.
-(pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
-
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 734--735
- [][] 
- []
-
-<Images/Szene_3_Frage_2.png, id=738, 1445.4pt x 852.18375pt>
-File: Images/Szene_3_Frage_2.png Graphic file (type png)
-
-<use Images/Szene_3_Frage_2.png>
-Package pdftex.def Info: Images/Szene_3_Frage_2.png used on input line 741.
-(pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
-
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 741--742
- [][] 
- []
-
-[47 <./Images/Szene_3_data.png> <./Images/Szene_3_Frage_1.png (PNG copy)>]
-<Images/Szene_3_Frage_3.png, id=747, 1445.4pt x 852.18375pt>
-File: Images/Szene_3_Frage_3.png Graphic file (type png)
-
-<use Images/Szene_3_Frage_3.png>
-Package pdftex.def Info: Images/Szene_3_Frage_3.png used on input line 748.
+Package pdftex.def Info: Images/Szene_2_Frage_3.png used on input line 748.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
 Overfull \hbox (28.44228pt too wide) in paragraph at lines 748--749
  [][] 
  []
 
-<Images/Szene_4_data.png, id=748, 1284.8pt x 722.7pt>
-File: Images/Szene_4_data.png Graphic file (type png)
+[48 <./Images/Szene_2_Frage_2.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 754--755
 
-<use Images/Szene_4_data.png>
-Package pdftex.def Info: Images/Szene_4_data.png used on input line 759.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--757
+
+ []
+
+<Images/Szene_3_data.png, id=760, 1284.8pt x 722.7pt>
+File: Images/Szene_3_data.png Graphic file (type png)
+
+<use Images/Szene_3_data.png>
+Package pdftex.def Info: Images/Szene_3_data.png used on input line 763.
 (pdftex.def)             Requested size: 455.2348pt x 256.06956pt.
- [48 <./Images/Szene_3_Frage_2.png (PNG copy)> <./Images/Szene_3_Frage_3.png (P
-NG copy)>]
-<Images/Szene_4_data_2.png, id=756, 837.1275pt x 887.315pt>
+ [49 <./Images/Szene_2_Frage_3.png (PNG copy)>]
+<Images/Szene_3_Frage_1.png, id=768, 1445.4pt x 852.18375pt>
+File: Images/Szene_3_Frage_1.png Graphic file (type png)
+
+<use Images/Szene_3_Frage_1.png>
+Package pdftex.def Info: Images/Szene_3_Frage_1.png used on input line 772.
+(pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
+
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 772--773
+ [][] 
+ []
+
+[50 <./Images/Szene_3_data.png> <./Images/Szene_3_Frage_1.png (PNG copy)>]
+<Images/Szene_3_Frage_2.png, id=777, 1445.4pt x 852.18375pt>
+File: Images/Szene_3_Frage_2.png Graphic file (type png)
+
+<use Images/Szene_3_Frage_2.png>
+Package pdftex.def Info: Images/Szene_3_Frage_2.png used on input line 781.
+(pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
+
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 781--782
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
+
+ []
+
+[51 <./Images/Szene_3_Frage_2.png (PNG copy)>]
+<Images/Szene_3_Frage_3.png, id=786, 1445.4pt x 852.18375pt>
+File: Images/Szene_3_Frage_3.png Graphic file (type png)
+
+<use Images/Szene_3_Frage_3.png>
+Package pdftex.def Info: Images/Szene_3_Frage_3.png used on input line 797.
+(pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
+
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 797--798
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 805--806
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 807--808
+
+ []
+
+[52 <./Images/Szene_3_Frage_3.png (PNG copy)>]
+<Images/Szene_4_data_2.png, id=794, 837.1275pt x 887.315pt>
 File: Images/Szene_4_data_2.png Graphic file (type png)
 
 <use Images/Szene_4_data_2.png>
-Package pdftex.def Info: Images/Szene_4_data_2.png used on input line 766.
-(pdftex.def)             Requested size: 256.07077pt x 264.5989pt.
+Package pdftex.def Info: Images/Szene_4_data_2.png used on input line 813.
+(pdftex.def)             Requested size: 369.88283pt x 398.32677pt.
 
-<Images/Szene_4_Frage_1.png, id=757, 1445.4pt x 852.18375pt>
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+
+ []
+
+[53 <./Images/Szene_4_data_2.png>]
+<Images/Szene_4_Frage_1.png, id=803, 1445.4pt x 852.18375pt>
 File: Images/Szene_4_Frage_1.png Graphic file (type png)
 
 <use Images/Szene_4_Frage_1.png>
-Package pdftex.def Info: Images/Szene_4_Frage_1.png used on input line 773.
+Package pdftex.def Info: Images/Szene_4_Frage_1.png used on input line 825.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 773--774
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 825--826
  [][] 
  []
 
-[49 <./Images/Szene_4_data.png> <./Images/Szene_4_data_2.png>]
-<Images/Szene_4_Frage_2.png, id=768, 1445.4pt x 852.18375pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 830--831
+
+ []
+
+<Images/Szene_4_Frage_2.png, id=806, 1445.4pt x 852.18375pt>
 File: Images/Szene_4_Frage_2.png Graphic file (type png)
 
 <use Images/Szene_4_Frage_2.png>
-Package pdftex.def Info: Images/Szene_4_Frage_2.png used on input line 780.
+Package pdftex.def Info: Images/Szene_4_Frage_2.png used on input line 837.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 780--781
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 837--838
  [][] 
  []
 
-<Images/Szene_4_Frage_3.png, id=769, 1445.4pt x 852.18375pt>
+[54 <./Images/Szene_4_Frage_1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 842--843
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 844--845
+
+ []
+
+<Images/Szene_4_Frage_3.png, id=814, 1445.4pt x 852.18375pt>
 File: Images/Szene_4_Frage_3.png Graphic file (type png)
 
 <use Images/Szene_4_Frage_3.png>
-Package pdftex.def Info: Images/Szene_4_Frage_3.png used on input line 787.
+Package pdftex.def Info: Images/Szene_4_Frage_3.png used on input line 851.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 787--788
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 851--852
  [][] 
  []
 
-[50 <./Images/Szene_4_Frage_1.png (PNG copy)> <./Images/Szene_4_Frage_2.png (PN
-G copy)>] <Images/Szene_5_data.png, id=777, 1284.8pt x 722.7pt>
+[55 <./Images/Szene_4_Frage_2.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 861--862
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 863--864
+
+ []
+
+[56 <./Images/Szene_4_Frage_3.png (PNG copy)>]
+<Images/Szene_5_data.png, id=830, 1284.8pt x 722.7pt>
 File: Images/Szene_5_data.png Graphic file (type png)
 
 <use Images/Szene_5_data.png>
-Package pdftex.def Info: Images/Szene_5_data.png used on input line 799.
+Package pdftex.def Info: Images/Szene_5_data.png used on input line 871.
 (pdftex.def)             Requested size: 455.2348pt x 256.06956pt.
- [51 <./Images/Szene_4_Frage_3.png (PNG copy)>]
-<Images/Szene_5_data_2.png, id=784, 746.79pt x 877.2775pt>
-File: Images/Szene_5_data_2.png Graphic file (type png)
 
-<use Images/Szene_5_data_2.png>
-Package pdftex.def Info: Images/Szene_5_data_2.png used on input line 806.
-(pdftex.def)             Requested size: 213.3957pt x 241.84773pt.
+Underfull \hbox (badness 10000) in paragraph at lines 876--877
 
-<Images/Szene_5_Frage_1.png, id=785, 1445.4pt x 852.18375pt>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
+
+ []
+
+<Images/Szene_5_Frage_1.png, id=832, 1445.4pt x 852.18375pt>
 File: Images/Szene_5_Frage_1.png Graphic file (type png)
 
 <use Images/Szene_5_Frage_1.png>
-Package pdftex.def Info: Images/Szene_5_Frage_1.png used on input line 813.
+Package pdftex.def Info: Images/Szene_5_Frage_1.png used on input line 882.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 813--814
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 882--883
  [][] 
  []
 
-[52 <./Images/Szene_5_data.png> <./Images/Szene_5_data_2.png>]
-<Images/Szene_5_Frage_2.png, id=795, 1445.4pt x 852.18375pt>
+[57 <./Images/Szene_5_data.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 887--888
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--890
+
+ []
+
+<Images/Szene_5_Frage_2.png, id=841, 1445.4pt x 852.18375pt>
 File: Images/Szene_5_Frage_2.png Graphic file (type png)
 
 <use Images/Szene_5_Frage_2.png>
-Package pdftex.def Info: Images/Szene_5_Frage_2.png used on input line 820.
+Package pdftex.def Info: Images/Szene_5_Frage_2.png used on input line 895.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 820--821
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 895--896
  [][] 
  []
 
-<Images/Szene_5_Frage_3.png, id=796, 1445.4pt x 852.18375pt>
+[58 <./Images/Szene_5_Frage_1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 900--901
+
+ []
+
+<Images/Szene_5_Frage_3.png, id=849, 1445.4pt x 852.18375pt>
 File: Images/Szene_5_Frage_3.png Graphic file (type png)
 
 <use Images/Szene_5_Frage_3.png>
-Package pdftex.def Info: Images/Szene_5_Frage_3.png used on input line 827.
+Package pdftex.def Info: Images/Szene_5_Frage_3.png used on input line 906.
 (pdftex.def)             Requested size: 512.13914pt x 284.52432pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 827--828
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 906--907
  [][] 
  []
 
-[53 <./Images/Szene_5_Frage_1.png (PNG copy)> <./Images/Szene_5_Frage_2.png (PN
-G copy)>]) [54 <./Images/Szene_5_Frage_3.png (PNG copy)>] (./Hauptdatei.bbl
+[59 <./Images/Szene_5_Frage_2.png (PNG copy)>]) [60 <./Images/Szene_5_Frage_3.p
+ng (PNG copy)>] (./Hauptdatei.bbl
 Underfull \hbox (badness 3612) in paragraph at lines 14--20
 []$\T1/lmtt/m/n/12 https : / / docs . microsoft . com / en-[]us / windows / mix
 ed-[]reality / mixed-[]reality$[]\T1/lmr/m/n/12 , Mar.
@@ -1880,7 +1986,7 @@ r-[]Uncanny-[]VR-[]alley-[]2291230 .
 
 ) 
 AED: lastpage setting LastPage
-[55
+[61
 
 
 ]
@@ -1890,21 +1996,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
 Package rerunfilecheck Info: File `Hauptdatei.out' has not changed.
-(rerunfilecheck)             Checksum: A36D890FB0D5FC967E7EBA88C11B90E3;4449.
+(rerunfilecheck)             Checksum: 8E8F9ED580D254D7BF3226BD1F0E961F;4523.
 
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
  ) 
 Here is how much of TeX's memory you used:
- 12939 strings out of 492995
- 205483 string characters out of 6132704
- 396710 words of memory out of 5000000
- 16022 multiletter control sequences out of 15000+600000
+ 12938 strings out of 492995
+ 205311 string characters out of 6132704
+ 397035 words of memory out of 5000000
+ 16018 multiletter control sequences out of 15000+600000
  77835 words of font info for 71 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  50i,12n,66p,8884b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1922,10 +2025,10 @@ ts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
 /public/lm/lmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm
 /lmtt10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pf
 b>
-Output written on Hauptdatei.pdf (55 pages, 4816996 bytes).
+Output written on Hauptdatei.pdf (61 pages, 4628061 bytes).
 PDF statistics:
- 912 PDF objects out of 1000 (max. 8388607)
- 765 compressed objects within 8 object streams
- 191 named destinations out of 1000 (max. 500000)
- 722 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 964 PDF objects out of 1000 (max. 8388607)
+ 814 compressed objects within 9 object streams
+ 196 named destinations out of 1000 (max. 500000)
+ 720 words of extra memory for PDF output out of 10000 (max. 10000000)
 
