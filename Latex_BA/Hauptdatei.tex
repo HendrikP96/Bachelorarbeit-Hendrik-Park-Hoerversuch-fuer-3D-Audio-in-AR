@@ -27,6 +27,8 @@
 \usepackage{HSEL}
 \usepackage{lmodern}
 \usepackage{color}
+\usepackage{acronym}
+\usepackage{pdfpages}
 %%\usepackage{xcolor, showframe} 
 \definecolor{mlgreen}{rgb}{.035,.6,.251} 
 \definecolor{mlviolett}{rgb}{.643,.259,.804} 
@@ -66,53 +68,82 @@ basicstyle={\ttfamily},%
 % Deckblatt
 \begin{center}
 \begin{tabular}{p{\textwidth}}
+\begin{figure}[H]
+\includegraphics[width = 9.6 cm, height = 3.2cm]{hs_emden.png}
+\end{figure} 
+\begin{center}
+\vspace*{40pt}
+\LARGE{\textbf{Ananlyse der Lokalisationsfähigkeit und des Darbietungsempfindens des Menschen für 3D-Audio in einer Mixed-Reality-Umgebung}}
+\end{center}
+
+\vspace*{30pt}
+\begin{center}
+\textbf{\Large{Bachelorarbeit \\ im Studiengang Medientechnik}}
+\end{center}
 \\
 \begin{center}
-\LARGE{\textsc{Analyse der Lokalisationsfähigkeit und des Darbietungsempfindens des Menschen für 3D-Audio in einer Mixed Reality Umgebung\\}}
-\end{center}
-\begin{center}
-\large{\textsc{Hier könnte ihre Werbng stehen \\}}
-\end{center}
-\begin{center}
-\large{Hochschule Emden/Leer, Studiengang Medientechnik \\}
-\end{center}
-\\
-\begin{center}
-\textbf{\Large{Bachelorarbeit}}
-\end{center}
-\begin{center}
-am xxxx. vorgelegt von
+am 07. Mai 2019 vorgelegt von
 \end{center}
 \begin{center}
 \large{\textbf{Hendrik Park }} \\
-\small{geboren am 16.10.1996 in Westerstede} \\
-\small{Matrikelnummer: 7008075}
-
-
+Matrikelnummer: 7008075 \\
 \end{center}
 
-
-
-
-\\
+\vspace*{100pt}
 \end{tabular}
 \end{center}
+Erstprüfer: \medskip Prof. Dr.-Ing. Johann-Markus Batke\\
+Zweitprüfer: \medskip Menno Ternieden MEng
 
 %% Ende Deckblatt
 \cleardoubleoddpage
 
 %Inhaltsverzeichnis
+\begin{figure}[ht]
+\includepdf{Erklaerung_zur_Abschlussarbeit}
+\end{figure}
 \tableofcontents
+\newpage
+\vspace*{30pt}
+\huge{\textbf{Abkürzungsverzeichnis}} \normalsize
+\vspace*{24pt}
+\begin{acronym}[ECU]
+\acro{ar}[AR]{Augmented Reality}
+\acro{vr}[VR]{Virtual Reality}
+\acro{hrtf}[HRTF]{Kopfbezogene Übertragrungsfunktion}
+\end{acronym}
 
-
-
+\listoffigures
 %% Inhalt: 
 \pagestyle{fancy}
 \include{Einleitung}
 \include{Hauptteil}
 
+%TODO: Anhang mit UML Diagramm
 
 %Literaturverzeichnis
 \bibliography{Literatur}
+
+\newpage
+\huge{\textbf{Anhang}} \normalsize
+\begin{itemize}
+\item 3 Seiten UML-Diagramm der Applikation in Unity
+\end{itemize}
+\newpage
+\pagestyle{empty}
+\begin{figure}[H]
+\centering
+\includegraphics[width = 21cm, height = 26cm]{UML_1.png}
+\end{figure} 
+\newpage
+\begin{figure}[H]
+\centering
+\includegraphics[width = 21cm, height = 26cm]{UML_2.png}
+\end{figure} 
+\newpage
+\begin{figure}[H]
+\centering
+\includegraphics[width = 21cm, height = 26cm]{UML_3.png}
+\end{figure} 
 
 \end{document}

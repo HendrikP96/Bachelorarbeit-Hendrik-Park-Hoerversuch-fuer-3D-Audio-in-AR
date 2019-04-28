@@ -1,70 +1,71 @@
 \select@language {ngerman}
-\contentsline {chapter}{\numberline {1}Einleitung}{4}{chapter.1}
-\contentsline {chapter}{\numberline {2}Menschliche Wahrnehmung}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Funktionsweise des menschlichen H\IeC {\"o}rens}{5}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Verarbeitung von Schall im Ohr}{5}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Verarbeitung akustischer Signale vom Zentralen Nervensystem}{7}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}R\IeC {\"a}umliche Wahrnehmung}{7}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Kopfbezogene \IeC {\"U}bertragungsfunktionen}{7}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Gr\IeC {\"o}\IeC {\ss }en des binauralen H\IeC {\"o}rens}{8}{subsection.2.2.2}
-\contentsline {subsubsection}{\nonumberline Interaurale Laufzeitdifferenzen}{8}{section*.5}
-\contentsline {subsubsection}{\nonumberline Interaurale Gruppenlaufzeit}{9}{section*.6}
-\contentsline {subsubsection}{\nonumberline Interaurale Pegeldifferenzen}{9}{section*.7}
-\contentsline {subsection}{\numberline {2.2.3}Funktionsweise der Schallquellenortung}{9}{subsection.2.2.3}
-\contentsline {subsubsection}{\nonumberline Richtungswahrnehmung}{10}{section*.9}
-\contentsline {subsubsection}{\nonumberline Entfernungswahrnehmung}{11}{section*.10}
-\contentsline {subsection}{\numberline {2.2.4}Im-Kopf-Lokalisation}{11}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Schallquellenortung bei mehreren Schallquellen}{11}{subsection.2.2.5}
-\contentsline {subsubsection}{\nonumberline Summenlokalisation - Phantomschallquellen}{12}{section*.11}
-\contentsline {subsubsection}{\nonumberline Pr\IeC {\"a}zedenzeffekt}{13}{section*.14}
-\contentsline {subsubsection}{\nonumberline Binaurale St\IeC {\"o}rger\IeC {\"a}uschunterdr\IeC {\"u}ckung/ Cocktailparty-Effekt}{13}{section*.15}
-\contentsline {section}{\numberline {2.3}Zusammenspiel mehrerer Sinnesreize}{14}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Einfluss des Visuellen auf die auditive Wahrnehmung}{14}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}H\IeC {\"o}rausrichtung an Blickrichtung}{14}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Bauchredner-Effekt}{14}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Wohlbefinden bei akustischen Szenen}{15}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Immersion}{15}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Das Uncanny Valley und der Bezug zur Immersion bei VR und AR}{16}{subsection.2.4.2}
-\contentsline {chapter}{\numberline {3}Technische Grundlagen}{18}{chapter.3}
-\contentsline {section}{\numberline {3.1}Augmented Reality}{18}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Microsoft Mixed Reality}{19}{subsection.3.1.1}
-\contentsline {section}{\numberline {3.2}Microsoft HoloLens}{19}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Head-Mounted-Displays}{20}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Kopfh\IeC {\"o}rer der HoloLens}{20}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Head-Tracking-Funktion}{20}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Binaurale Wiedergabe}{21}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Kopfbezogene \IeC {\"U}bertragungsfunktionen - MS HRTF Spatializer}{21}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Auralisation}{21}{subsection.3.3.2}
-\contentsline {subsubsection}{\nonumberline Microsoft - Spatial Audio}{22}{section*.21}
-\contentsline {section}{\numberline {3.4}Software}{23}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Blender}{23}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Unity}{23}{subsection.3.4.2}
-\contentsline {chapter}{\numberline {4}Vorstellung der HoloLens-Applikation und des H\IeC {\"o}rversuches}{25}{chapter.4}
-\contentsline {section}{\numberline {4.1}Idee hinter dem Versuch}{25}{section.4.1}
-\contentsline {section}{\numberline {4.2}Beschreibung der Virtuellen Welt}{26}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Dorf}{26}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Wald}{27}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Gebirge und Fluss}{28}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Audio-Einstellungen in der Applikation}{28}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Binauralisierung in der Applikation}{29}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Auralisierung in der Applikation}{29}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Beschreibung der Szenen des H\IeC {\"o}rversuchs}{30}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Szene 1 - Adlerschrei im Gebirge}{30}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Szene 2 - Wolfsheulen}{31}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Szene 3 - Kirchenglocken}{32}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4.4}Szene 4 - Flussrauschen}{33}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.4.5}Szene 5 - Adlerschrei \IeC {\"u}ber der Welt}{33}{subsection.4.4.5}
-\contentsline {section}{\numberline {4.5}Bewertungskriterien der Darbietung}{34}{section.4.5}
-\contentsline {section}{\numberline {4.6}Beschreibung der Benutzeroberfl\IeC {\"a}che}{35}{section.4.6}
-\contentsline {subsubsection}{\nonumberline Position der Schallquelle lokalisieren}{37}{section*.36}
-\contentsline {subsubsection}{\nonumberline Sprachbefehle und Positionierung der Welt}{38}{section*.37}
-\contentsline {section}{\numberline {4.7}Ablauf des H\IeC {\"o}rversuchs}{38}{section.4.7}
-\contentsline {section}{\numberline {4.8}Probanden}{40}{section.4.8}
-\contentsline {chapter}{\numberline {5}Auswertung des H\IeC {\"o}rversuchs}{41}{chapter.5}
-\contentsline {section}{\numberline {5.1}Vorstellung der Versuchsergebnisse}{41}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Szene 1: Adlerschrei im Adlernest}{41}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Szene 2: Wolfsheulen}{45}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Szene 3: Kirchenglocken}{49}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Szene 4: Adler in der Luft}{52}{subsection.5.1.4}
-\contentsline {subsection}{\numberline {5.1.5}Szene 5: Flussrauschen}{56}{subsection.5.1.5}
-\contentsline {section}{\numberline {5.2}Ergebnisse kritisch hinterfragen}{60}{section.5.2}
+\contentsline {chapter}{\numberline {1}Einleitung}{8}{chapter.1}
+\contentsline {chapter}{\numberline {2}Menschliche Wahrnehmung}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Funktionsweise des menschlichen H\IeC {\"o}rens}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Schallverarbeitung im Ohr}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Verarbeitung akustischer Signale vom zentralen Nervensystem}{11}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}R\IeC {\"a}umliche Wahrnehmung}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Kopfbezogene \IeC {\"U}bertragungsfunktionen}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Gr\IeC {\"o}\IeC {\ss }en des binauralen H\IeC {\"o}rens}{12}{subsection.2.2.2}
+\contentsline {subsubsection}{\nonumberline Interaurale Laufzeitdifferenzen}{13}{section*.8}
+\contentsline {subsubsection}{\nonumberline Interaurale Gruppenlaufzeit}{13}{section*.9}
+\contentsline {subsubsection}{\nonumberline Interaurale Pegeldifferenzen}{13}{section*.10}
+\contentsline {subsection}{\numberline {2.2.3}Schallquellenlokalisation}{13}{subsection.2.2.3}
+\contentsline {subsubsection}{\nonumberline Richtungswahrnehmung}{14}{section*.12}
+\contentsline {subsubsection}{\nonumberline Entfernungswahrnehmung}{15}{section*.13}
+\contentsline {subsection}{\numberline {2.2.4}Im-Kopf-Lokalisation}{15}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Schallquellenortung bei mehreren Schallquellen}{15}{subsection.2.2.5}
+\contentsline {subsubsection}{\nonumberline Summenlokalisation - Phantomschallquellen}{16}{section*.14}
+\contentsline {subsubsection}{\nonumberline Pr\IeC {\"a}zedenzeffekt}{17}{section*.17}
+\contentsline {subsubsection}{\nonumberline Binaurale St\IeC {\"o}rger\IeC {\"a}uschunterdr\IeC {\"u}ckung - Cocktailparty-Effekt}{17}{section*.18}
+\contentsline {section}{\numberline {2.3}Zusammenspiel mehrerer Sinnesreize}{18}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Einfluss des Visuellen auf die auditive Wahrnehmung}{18}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}H\IeC {\"o}rausrichtung an Blickrichtung}{18}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Bauchredner-Effekt}{18}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Wohlbefinden bei akustischen Szenen}{19}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Immersion}{19}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Das Uncanny Valley und der Bezug zur Immersion bei VR und AR}{20}{subsection.2.4.2}
+\contentsline {chapter}{\numberline {3}Technische Grundlagen}{22}{chapter.3}
+\contentsline {section}{\numberline {3.1}Augmented Reality}{22}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Microsoft Mixed Reality}{23}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Microsoft HoloLens}{24}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Head-Mounted-Displays}{24}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Kopfh\IeC {\"o}rer der HoloLens}{24}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Head-Tracking-Funktion}{25}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Binaurale Wiedergabe}{25}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Kopfbezogene \IeC {\"U}bertragungsfunktionen - MS HRTF Spatializer}{25}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Auralisation}{26}{subsection.3.3.2}
+\contentsline {subsubsection}{\nonumberline Microsoft - Spatial Audio}{26}{section*.24}
+\contentsline {section}{\numberline {3.4}Software}{27}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Blender}{27}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Unity}{28}{subsection.3.4.2}
+\contentsline {chapter}{\numberline {4}Vorstellung der HoloLens-Applikation und des H\IeC {\"o}rversuches}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Versuchsidee}{29}{section.4.1}
+\contentsline {section}{\numberline {4.2}Die virtuelle Welt}{30}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Dorf}{30}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Wald}{31}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Gebirge und Fluss}{32}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Audio-Einstellungen in der Applikation}{32}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Binauralisierung in der Applikation}{33}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Auralisierung in der Applikation}{33}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Beschreibung der Szenen des H\IeC {\"o}rversuchs}{34}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Szene 1: Adlerschrei im Gebirge}{35}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Szene 2: Wolfsheulen}{36}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Szene 3: Kirchenglocken}{37}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Szene 4: Adlerschrei \IeC {\"u}ber dem Probanden}{38}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Szene 5: Flussrauschen}{38}{subsection.4.4.5}
+\contentsline {section}{\numberline {4.5}Bewertungskriterien der Darbietung}{39}{section.4.5}
+\contentsline {section}{\numberline {4.6}Beschreibung der Benutzeroberfl\IeC {\"a}che}{41}{section.4.6}
+\contentsline {subsubsection}{\nonumberline Position der Schallquelle lokalisieren}{42}{section*.40}
+\contentsline {subsubsection}{\nonumberline Sprachbefehle und Positionierung der Welt}{43}{section*.41}
+\contentsline {section}{\numberline {4.7}Ablauf des H\IeC {\"o}rversuchs}{43}{section.4.7}
+\contentsline {section}{\numberline {4.8}Probanden}{45}{section.4.8}
+\contentsline {chapter}{\numberline {5}Auswertung des H\IeC {\"o}rversuchs}{46}{chapter.5}
+\contentsline {section}{\numberline {5.1}Versuchsergebnisse}{46}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Szene 1: Adlerschrei im Gebirge}{46}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Szene 2: Wolfsheulen}{51}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Szene 3: Kirchenglocken}{55}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Szene 4: Adlerschrei \IeC {\"u}ber dem Probanden}{59}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Szene 5: Flussrauschen}{63}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}Versuchskritik}{67}{section.5.2}
+\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{69}{chapter.6}
